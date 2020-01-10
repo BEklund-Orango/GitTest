@@ -1,0 +1,10 @@
+000100000000     A          R REMP
+000200000000      *
+000300000000     A            EMPNUM         6  0       COLHDG('Employee number')
+000400000000     A                                      TEXT('Employee number')
+000500000000     A            NAME          50A         COLHDG('Name')
+000600000000     A                                      TEXT('Name')
+000700000000     A            DEPT           3A         COLHDG('Department')
+000800000000     A                                      TEXT('Department')
+000900000000     A            PHNO          20A         COLHDG('Phone number')
+001000000000     A                                      TEXT('Phone number')
